@@ -1,6 +1,10 @@
 # aplikasitest1
 
-A new Flutter project.
+<img width="361" height="808" alt="image" src="https://github.com/user-attachments/assets/309e5215-2e23-4886-a638-acc7b38a5216" />
+<img width="454" height="836" alt="image" src="https://github.com/user-attachments/assets/6c3a53d1-9aab-41c7-ba46-ffb33ddcff2d" />
+<img width="397" height="817" alt="image" src="https://github.com/user-attachments/assets/97a6b900-c8ab-4716-95de-29fd159118fa" />
+<img width="395" height="820" alt="image" src="https://github.com/user-attachments/assets/74bc19d3-693f-459c-89a5-9a0b8e443a9d" />
+
 
 ## Getting Started
 
